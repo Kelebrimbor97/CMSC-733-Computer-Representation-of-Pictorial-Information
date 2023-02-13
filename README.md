@@ -16,7 +16,11 @@ Field of Views determines the amount of pictorial data a camera captures at a gi
 
 ## 3. FaceSwap
 
-Modern cinematography has made use of numerous advancements in the field of computer vision. FaceSwap has been one the most prominent ones (cue in Wiz Khalifa's - When I see you again, RIP Paul Walker you absolute Legend). In this project we examine multiple classical methods for performing faceswaps. Also, in the Deep Learning version we try to improve the accuracy by making minor changes to the pipeline by introducing parts like histogram equalization.
+Modern cinematography has made use of numerous advancements in the field of computer vision. FaceSwap has been one the most prominent ones. In this project we examine multiple classical methods for performing faceswaps. Also, in the Deep Learning version we try to improve the accuracy by making minor changes to the pipeline by introducing parts like histogram equalization.
+
+![og](https://user-images.githubusercontent.com/35636842/218599500-6ed55ba9-76b8-4e1e-9918-21bcce23e377.gif)
+![swapped](https://user-images.githubusercontent.com/35636842/218599504-e36a150f-6c55-4db5-b04a-acec830812ec.gif)
+
 
 ## 4. AutoCalib
 
