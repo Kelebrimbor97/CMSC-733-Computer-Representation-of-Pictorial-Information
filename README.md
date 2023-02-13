@@ -11,7 +11,6 @@ Edge detection is one of the most important steps in CV. In this project we exam
 ![og_imgs](https://user-images.githubusercontent.com/35636842/218597493-6969f533-1134-48a9-a085-1deaf7ce89ef.gif)
 ![baseline](https://user-images.githubusercontent.com/35636842/218597491-6745a414-5fd5-4c87-879c-1431f5b60c81.gif)
 
-![tbc](https://user-images.githubusercontent.com/35636842/218597494-d441ec63-88a1-44cd-9e11-9f4687a0f9b4.gif)
 ## 2. MyAutoPano
 
 Field of Views determines the amount of pictorial data a camera captures at a given time. Sometimes, even with the largest fields of vies, one may still not have enough coverage of a given scene. The simplest way to counter this problem is to take multiple pictures with overlapping parts of the scene and then stitch them together; this is called Panorama. In this project we examine the classical method using corner detection and feature matching to generate beautiful Panoramas.
