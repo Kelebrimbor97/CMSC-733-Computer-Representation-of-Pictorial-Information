@@ -26,6 +26,8 @@ Modern cinematography has made use of numerous advancements in the field of comp
 
 For all it's marvelous abilities, CV would be nothing if the camera is not calibrated correctly. This projects emphasizes the need and the method to calibrate cameras.
 
+![Camera_Calib](https://user-images.githubusercontent.com/35636842/222494984-f6d0b4c4-15fa-465e-859d-d14026a18fc5.gif)
+
 ## 5. Buildings built in minutes - An SfM Approach (Structure from Motion)
 
 Stereo vision works similar to Panorama in the fact that it involves feature matching of overlapping parts of the sceme. Structure from Motion aims to use this principle to generate 3D views of a scene by utilizing multiple consecutive images. In this project we examine the classical approach to this method.
